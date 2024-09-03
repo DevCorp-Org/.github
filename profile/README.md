@@ -1,6 +1,6 @@
 # Welcome to DevCorp.Org 👋
 
-<img src="https://github.com/user-attachments/assets/8280735b-e792-4ac5-81e0-9c8b51042c10" alt="DevCorp.Org Logo" style="width:100%;"/>
+<img src="DevCorpOrg](https://github.com/user-attachments/assets/c5186625-4be2-4646-9ce7-5a6785221118" alt="DevCorp.Org Logo" style="width:100%;"/>
 
 **DevCorp.Org** has been a pioneer in Enterprise Architecture since 2008, providing robust and scalable solutions to meet the demands of modern businesses. Our focus is on building high-quality, efficient architectures that empower organizations to achieve their goals.
 
