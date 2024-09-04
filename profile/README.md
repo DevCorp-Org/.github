@@ -17,7 +17,7 @@ At DevCorp.Org, we strive to:
   <div style="flex: 1; min-width: 300px; box-sizing: border-box;">
     <table>
       <tr>
-        <td><a href="https://github.com/degenvets/devcorp/project1"><img src="https://your-image-link.com/project1.png" alt="Project 1 Screenshot" style="width: 100%;"/></a></td>
+        <td><a href="https://github.com/degenvets/devcorp"><img src="https://your-image-link.com/project1.png" alt="Project 1 Screenshot" style="width: 100%;"/></a></td>
       </tr>
       <tr>
         <td><strong>Project Alpha</strong><br>**Description:** An innovative platform that enhances enterprise interactions.<br>**Tech Stack:** React, Node.js, GraphQL.</td>
@@ -55,5 +55,8 @@ We'd love to hear from you! Reach out to us at:
 - **GitHub**: [DevCorpOrg](https://github.com/degenvets/devcorp)
 
 ---
+<div align="center">
+<img src="https://github.com/user-attachments/assets/95d1fe4c-fa24-415f-8c3a-ddc8641cfe6e" alt="TOGAF stages encompass the Architecture Development Method (ADM), a systematic process with eight interconnected phases (A-H) to guide the development, governance, and maintenance of enterprise architecture, ensuring alignment with business objectives and stakeholder requirements.">
 
 **Innovating Enterprise Solutions for a Better Tomorrow Since 2008**
+</div>
